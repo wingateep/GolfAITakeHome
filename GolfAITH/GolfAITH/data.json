@@ -1,0 +1,624 @@
+[
+    {
+        "id": 0,
+        "title": "Tiptoe Drill",
+        "description": [
+            {
+                "name": "The Tip Toe Drill helps ensure weight forward to improve consistency in ball contact"
+            }
+        ],
+        "targets": [{
+                "name": "Shoulder Turn at Top Backswing"
+            },
+            {
+                "name": "Hip Turn at Top Backswing"
+            },
+            {
+                "name": "Hip Turn at Impact"
+            },
+            {
+                "name": "Shoulder Turn at Impact"
+            }
+        ],
+        "benefits": [{
+                "name": "Teaches Balance "
+            },
+            {
+                "name": "Improves Ball Contact"
+            },
+            {
+                "name": "Prevents ‘Hanging Back’"
+            }
+        ],
+        "steps": [{
+                "name": "Using your 7 iron, set up to the ball as normal"
+            },
+            {
+                "name": "Move your trail foot slightly back onto its tiptoe so 95% of your weight is on your lead leg"
+            },
+            {
+                "name": "Hit the ball using a half swing, focusing on balance throughout the shot"
+            }
+        ],
+        "details": [{
+                "name": "This drill is to be done with a club, ideally an iron or wedge"
+            },
+            {
+                "name": "This drill involves hitting a golf ball, so it is best to use it on the range"
+            },
+            {
+                "name": "This drill mainly attacks issues with ball contact"
+            }
+        ],
+        "videoURL": "https://swing-videos.s3.us-east-2.amazonaws.com/Drill+Videos/tiptoeDrillFull.mp4",
+        "thumbnailURL": "https://swing-videos.s3.us-east-2.amazonaws.com/thumbnails/0.png"
+    },
+    {
+        "id": 1,
+        "title": "Swing in a Barrel Drill",
+        "description": [
+            {
+                "name": "The Swing in a Barrel Drill prevents your hip from swaying throughout your swing"
+            }
+        ],
+        "targets": [{
+                "name": "Shoulder Turn at Top Backswing"
+            },
+            {
+                "name": "Hip Turn at Top Backswing"
+            },
+            {
+                "name": "Hip Turn at Impact"
+            },
+            {
+                "name": "Shoulder Turn at Impact"
+            },
+            {
+                "name": "Hip Turn at Finish"
+            }
+        ],
+        "benefits": [{
+                "name": "Teaches proper rotation"
+            },
+            {
+                "name": "Prevents over-'swaying'"
+            },
+            {
+                "name": "Teaches centeredness"
+            },
+            {
+                "name": "Improves consistency"
+            }
+        ],
+        "steps": [{
+                "name": "Using your 7 iron, set up to the ball as normal"
+            },
+            {
+                "name": "During the entire swing, feel as if you are in a 'barrel'"
+            },
+            {
+                "name": "Let your hips and shoulders rotate back and through without 'swaying' out of the barrel"
+            }
+        ],
+        "details": [{
+                "name": "This drill can be done using any golf club"
+            },
+            {
+                "name": "This drill can be done with a golf ball on the driving range or without a golf ball at home"
+            },
+            {
+                "name": "This drill mainly attacks issues with ball contact"
+            }
+        ],
+        "videoURL": "https://swing-videos.s3.us-east-2.amazonaws.com/Drill+Videos/barrelFull.mp4",
+        "thumbnailURL": "https://swing-videos.s3.us-east-2.amazonaws.com/thumbnails/1.png"
+    },
+    {
+        "id": 2,
+        "title": "Stick the Finish Drill",
+        "description": [
+            {
+                "name": "The Stick the Finish Drill focuses on balance to improve contact and consistency on golf shots"
+            }
+        ],
+        "targets": [{
+                "name": "Hip Turn at Finish"
+            },
+            {
+                "name": "Shoulder Bend at Finish"
+            },
+            {
+                "name": "Swing Tempo at Finish"
+            }
+        ],
+        "benefits": [{
+                "name": "Teaches proper finish position"
+            },
+            {
+                "name": "Improves balance"
+            },
+            {
+                "name": "Improves rhythm"
+            },
+            {
+                "name": "Improves consistency"
+            }
+        ],
+        "steps": [{
+                "name": "Using your 7 iron, take a normal swing"
+            },
+            {
+                "name": "Hold your finish with good balance for 3-5 seconds"
+            },
+            {
+                "name": "All of your weight should be on your front leg at end of swing so that you can easily pickup your trailing foot if needed"
+            }
+        ],
+        "details": [{
+                "name": "This drill can be done with any golf club"
+            },
+            {
+                "name": "This drill can be done with a golf ball on the driving range or without a golf ball at home"
+            },
+            {
+                "name": "This drill mainly attacks issues with ball contact"
+            }
+        ],
+        "videoURL": "https://swing-videos.s3.us-east-2.amazonaws.com/Drill+Videos/stickFinishFull.mp4",
+        "thumbnailURL": "https://swing-videos.s3.us-east-2.amazonaws.com/thumbnails/2.png"
+    },
+    {
+        "id": 3,
+        "title": "Hit From the Inside (Two Ball) Drill",
+        "description": [
+            {
+                "name": "The Two Ball Drill helps promote an inside to out swing to fix a slice and heel contact"
+            }
+        ],
+        "targets": [{
+                "name": "Shoulder Turn at Top Backswing"
+            },
+            {
+                "name": "Hip Turn at Top Backswing"
+            },
+            {
+                "name": "Shoulder Turn at Impact"
+            },
+            {
+                "name": "Hip Turn at Finish"
+            }
+        ],
+        "benefits": [{
+                "name": "Trains more 'inside' swing path"
+            },
+            {
+                "name": "Fixes slice"
+            },
+            {
+                "name": "Fixes swinging 'over-the-top'"
+            },
+            {
+                "name": "Improves rotation"
+            }
+        ],
+        "steps": [{
+                "name": "Using your 7 iron, set up to the ball as normal, the place another ball about one ball width on the outside"
+            },
+            {
+                "name": "Address the ball nearest to you (the inside ball). Take a good swing and try to play the inside ball as normal."
+            },
+            {
+                "name": "If you do this drill correctly, the inside ball should fly nicely and the outside ball should remain in the same position. If the outside ball moved, your club is not returning to the address position"
+            }
+        ],
+        "details": [{
+                "name": "This drill can be done with any club (if using a driver make sure both balls are on tees)"
+            },
+            {
+                "name": "This drill includes hitting a golf ball, so it is best to be done on the driving range"
+            },
+            {
+                "name": "This drill mainly attacks the issue of a slice"
+            }
+        ],
+        "videoURL": "https://swing-videos.s3.us-east-2.amazonaws.com/Drill+Videos/twoBallDrill.mp4",
+        "thumbnailURL": "https://swing-videos.s3.us-east-2.amazonaws.com/thumbnails/3.png"
+    },
+    {
+        "id": 4,
+        "title": "baseballDrillFull",
+        "description": [
+            {
+                "name": "The Baseball Drill helps solidify spine angle and balance to improve consistency"
+            }
+        ],
+        "targets": [{
+                "name": "Shoulder Turn at Top Backswing"
+            },
+            {
+                "name": "Hip Turn at Top Backswing"
+            },
+            {
+                "name": "Hip Turn at Impact"
+            },
+            {
+                "name": "Shoulder Turn at Impact"
+            },
+            {
+                "name": "Hip Turn at Finish"
+            }
+        ],
+        "benefits": [{
+                "name": "Teaches proper hip & shoulder rotation"
+            },
+            {
+                "name": "Improves balance"
+            },
+            {
+                "name": "Improves rhythm"
+            }
+        ],
+        "steps": [{
+                "name": "Take your normal set up to the ball, then stand up straight holding the club in front of your chest as if you were about to swing a baseball bat"
+            },
+            {
+                "name": "Swing the club around your body on a horizontal plane (ie keeping the club parallel to the ground). As the club comes back in front of your body to an imaginary impact position, take note of the club face angle. (The club face should be vertial and the toe of the club pointing to the sky)"
+            },
+            {
+                "name": "Try to over-exaggerate the rotation of your hips, shoulders, and hands. This should produce a club face that appears closed and aimed downwards"
+            }
+        ],
+        "details": [{
+                "name": "This drill can be done with any club"
+            },
+            {
+                "name": "This drill does not include hitting a golf ball, so it can be done wherever you have space to swing (at home)"
+            },
+            {
+                "name": "This drill mainly attacks the issue of ball contact"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Ball and Tee (Hitting Down) Drill",
+        "description": [
+            {
+                "name": "The Ball and Tee Drill focuses on hitting down on the ball to improve ball contact"
+            }
+        ],
+        "targets": [{
+                "name": "Hip Turn at Impact"
+            },
+            {
+                "name": "Shoulder Turn at Impact"
+            },
+            {
+                "name": "Hip Turn at Finish"
+            }
+        ],
+        "benefits": [{
+                "name": "Teaches 'Hitting Down' to get the ball up"
+            },
+            {
+                "name": "Improves ball contact"
+            },
+            {
+                "name": "Prevents 'hanging back'"
+            }
+        ],
+        "steps": [{
+                "name": "Place a tee an inch in front of the ball and push it down so only the top of the tee is showing"
+            },
+            {
+                "name": "Grab a 7-iron and make a swing, trying to 'hit down' on the ball so that you hit the golf ball and take the tee out of the ground with the same strike"
+            },
+            {
+                "name": "As you reach the delivery zone, make sure your right palm is facing the ground to ensure proper downward strike"
+            }
+        ],
+        "details": [{
+                "name": "This drill can be done with any club except driver"
+            },
+            {
+                "name": "This drill includes hitting a golf ball, so it is best to be done on the driving range"
+            },
+            {
+                "name": "This drill mainly attacks the issue of ball contact"
+            }
+        ],
+        "videoURL": "https://swing-videos.s3.us-east-2.amazonaws.com/Drill+Videos/ballAndTeeFull.mp4",
+        "thumbnailURL": "https://swing-videos.s3.us-east-2.amazonaws.com/thumbnails/5.png"
+    },
+    {
+        "id": 6,
+        "title": "Finger Gun Drill",
+        "description": [
+            {
+                "name": "The Finger Gun Drill helps improve hand pressure to fix a hook"
+            }
+        ],
+        "targets": [{
+                "name": "Wrist Position at Impact"
+            },
+            {
+                "name": "..."
+            },
+            {
+                "name": "..."
+            }
+        ],
+        "benefits": [{
+                "name": "Prevents hooking the ball"
+            },
+            {
+                "name": "Improves contact/striking down on ball"
+            },
+            {
+                "name": "..."
+            }
+        ],
+        "steps": [{
+                "name": "Grip your club with your left hand like you normally do"
+            },
+            {
+                "name": "Grip your right hand normally with the back three fingers and with the pointer finger and thumb, make a finger gun"
+            },
+            {
+                "name": "Swing with an emphasis of holding the finger gun on your right hand throughout the swing"
+            }
+        ],
+        "details": [{
+                "name": "This drill can be done with any golf club"
+            },
+            {
+                "name": "This drill can be done with a golf ball at the driving range, or without a golf ball at home"
+            },
+            {
+                "name": "This drill attacks the issue of hooking"
+            }
+        ],
+        "videoURL": "https://swing-videos.s3.us-east-2.amazonaws.com/Individual+Drill+Videos/FingerGunDrill.mp4",
+        "thumbnailURL": "https://swing-videos.s3.us-east-2.amazonaws.com/thumbnails/6.png"
+    },
+    {
+        "id": 7,
+        "title": "Headcover Drill",
+        "description": [
+            {
+                "name": "The Headcover Drill helps keep the swing compact to improve ball contact"
+            }
+        ],
+        "targets": [{
+                "name": "Shoulder Turn at Top Backswing"
+            },
+            {
+                "name": "Shoulder Turn at Finish"
+            },
+            {
+                "name": "..."
+            }
+        ],
+        "benefits": [{
+                "name": "More compact swing"
+            },
+            {
+                "name": "Teaches proper shoulder and hip rotation"
+            },
+            {
+                "name": "..."
+            }
+        ],
+        "steps": [{
+                "name": "Take a small club headcover and place it under your right armpit (left for left-handed)"
+            },
+            {
+                "name": "Set up to the ball as you normally would and swing the club without dropping the headcover"
+            }
+        ],
+        "details": [{
+                "name": "This drill can be done with any club"
+            },
+            {
+                "name": "This drill can be done with a golf ball on the range or without a golf ball at home"
+            },
+            {
+                "name": "This drill mainly attacks the issue of ball contact"
+            }
+        ],
+        "videoURL": "https://swing-videos.s3.us-east-2.amazonaws.com/Individual+Drill+Videos/HeadcoverDrill.mp4",
+        "thumbnailURL": "https://swing-videos.s3.us-east-2.amazonaws.com/thumbnails/7.png"
+    },
+    {
+        "id": 8,
+        "title": "L Drill",
+        "description": [
+            {
+                "name": "The L Drill improves arm and wrist hinge to improve consistency in ball contact"
+            }
+        ],
+        "targets": [{
+                "name": "Shoulder Turn at Top Backswing"
+            },
+            {
+                "name": "Shoulder Turn at Finish"
+            },
+            {
+                "name": "..."
+            }
+        ],
+        "benefits": [{
+                "name": "Teaches proper hinge in backswing and follow through"
+            },
+            {
+                "name": "Improves shoulder rotation"
+            },
+            {
+                "name": "..."
+            }
+        ],
+        "steps": [{
+                "name": "Set up for a normal golf swing and take the backswing, stopping when your right arm (left arm for left-handed) is parallel to the ground and your club direction is perpendicular, forming an L"
+            },
+            {
+                "name": "Take your downswing and stop in the same L position at your follow through"
+            }
+        ],
+        "details": [{
+                "name": "This drill can be done with any club, but is best to be done with an iron or wedge"
+            },
+            {
+                "name": "This drill can be done with a golf ball on the driving range or without a golf ball at home"
+            },
+            {
+                "name": "This drill attacks the issue of ball contact"
+            }
+        ],
+        "videoURL": "https://swing-videos.s3.us-east-2.amazonaws.com/Individual+Drill+Videos/LDrill.mp4",
+        "thumbnailURL": "https://swing-videos.s3.us-east-2.amazonaws.com/thumbnails/8.png"
+    },
+    {
+        "id": 9,
+        "title": "Shoulder Turn Drill",
+        "description": [
+            {
+                "name": "The Shoulder Turn Drill improves shoulder rotation and and spine angle to improve ball contact"
+            }
+        ],
+        "targets": [{
+                "name": "Shoulder Turn at Top Backswing"
+            },
+            {
+                "name": "Shoulder Turn at Finish"
+            },
+            {
+                "name": "Shoulder Turn at Impact"
+            }
+        ],
+        "benefits": [{
+                "name": "Teaches increased shoulder rotation"
+            },
+            {
+                "name": "Teaches proper primary spine angle"
+            },
+            {
+                "name": "Increases consistent ball contact"
+            }
+        ],
+        "steps": [{
+                "name": "Take your normal golf stance and posture and place the club behind your back anchoring it with your interior elbow"
+            },
+            {
+                "name": "Rotate your shoulders so that each end of the club covers the ball while you maintain proper posture"
+            }
+        ],
+        "details": [{
+                "name": "This drill should be done using an iron or wedge"
+            },
+            {
+                "name": "This drill does not involve hitting a golf ball, so it can be done at home"
+            },
+            {
+                "name": "This drill mainly attacks the issue of ball contact"
+            }
+        ],
+        "videoURL": "https://swing-videos.s3.us-east-2.amazonaws.com/Individual+Drill+Videos/ShoulderTurnDrill.mp4",
+        "thumbnailURL": "https://swing-videos.s3.us-east-2.amazonaws.com/thumbnails/9.png"
+    },
+    {
+        "id": 10,
+        "title": "Wiping Table Drill",
+        "description": [
+            {
+                "name": "The Wiping Table Drill improves wrist rotation at impact to fix a slice and ball contact"
+            }
+        ],
+        "targets": [{
+                "name": "Hip Turn at Impact"
+            },
+            {
+                "name": "Shoulder Turn at Impact"
+            },
+            {
+                "name": "Shoulder Bend at Impact"
+            }
+        ],
+        "benefits": [{
+                "name": "Prevents slice"
+            },
+            {
+                "name": "Improves ball contact"
+            },
+            {
+                "name": "Prevents 'hanging back'"
+            }
+        ],
+        "steps": [{
+                "name": "Take a stance without a golf club"
+            },
+            {
+                "name": "Swing only with your right hand, and at impact feel like your right hand is wiping a table by covering the area the table would be"
+            }
+        ],
+        "details": [{
+                "name": "This drill does not use a golf club"
+            },
+            {
+                "name": "This drill can be done at home"
+            },
+            {
+                "name": "This drill mainly attacks the issue of a slice"
+            }
+        ],
+        "videoURL": "https://swing-videos.s3.us-east-2.amazonaws.com/Individual+Drill+Videos/TableWipeDrill.mp4",
+        "thumbnailURL": "https://swing-videos.s3.us-east-2.amazonaws.com/thumbnails/10.png"
+    },
+    {
+        "id": 11,
+        "title": "Handshake Drill",
+        "description": [
+            {
+                "name": "The Handshake Drill helps improve wrist rotation at impact to fix a slice"
+            }
+        ],
+        "targets": [{
+                "name": "Shoulder Turn at Finish"
+            },
+            {
+                "name": "Shoulder Turn at Impact"
+            },
+            {
+                "name": "Shoulder Bend at Impact"
+            }
+        ],
+        "benefits": [{
+                "name": "Teaches 'Hitting Down' on the ball"
+            },
+            {
+                "name": "Improves ball contact and consistency"
+            },
+            {
+                "name": "Prevents 'hanging back'"
+            }
+        ],
+        "steps": [{
+                "name": "Take a stance without a golf club"
+            },
+            {
+                "name": "Take swing with your right hand (left hand if you are left-handed) and in the follow throughwhen you arm is parallel, feel like you are shaking the hand of someone"
+            }
+        ],
+        "details": [{
+                "name": "This drill does not use a golf club"
+            },
+            {
+                "name": "This drill can be done at home"
+            },
+            {
+                "name": "This drill mainly attacks the issue of a slice"
+            }
+        ],
+        "videoURL": "https://swing-videos.s3.us-east-2.amazonaws.com/Individual+Drill+Videos/HandshakeDrill.mp4",
+        "thumbnailURL": "https://swing-videos.s3.us-east-2.amazonaws.com/thumbnails/11.png"
+    }
+]
